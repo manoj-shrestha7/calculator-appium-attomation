@@ -1,1 +1,1 @@
-# calculator-appium-attomation
+# calculator-appium-auttomation
